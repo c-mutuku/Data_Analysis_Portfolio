@@ -1,6 +1,7 @@
 # Caroline's Portfolio
 
 ## Project 1: Firm Size Analysis Dashboard (Excel)
+View Dashboard Screenshot [https://github.com/c-mutuku/Data_Analysis_Portfolio/blob/main/Excel-Dashboard-Projects/Firm-Size-Analysis/screenshots/Dashboard_Overview.png]
 
 This project is an Excel dashboard analyzing firm size distribution, employment, and business dynamics across different firm size categories.
 
