@@ -10,7 +10,7 @@ This project is an Excel dashboard analyzing firm size distribution, employment,
 - Pivot Tables
 - Charts
 - Slicers
-- 
+  
 ### Dashboard Highlights
 - Firm distribution by size
 - Total employment by firm size
