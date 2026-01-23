@@ -1,2 +1,24 @@
-# Data_Analysis_Portfolio
-Portfolio of Data Analysis Projects using Excel, SQL and Power BI
+# Caroline's Portfolio
+
+## Project 1: Firm Size Analysis Dashboard (Excel)
+
+This project is an Excel dashboard analyzing firm size distribution, employment, and business dynamics across different firm size categories.
+
+### Tools
+- Microsoft Excel
+- Power Query (data cleaning and transformation)
+- Pivot Tables
+- Charts
+- Slicers
+- 
+### Dashboard Highlights
+- Firm distribution by size
+- Total employment by firm size
+- Entry and exit rate comparison
+- Job creation and destruction analysis
+- Firm death rate by size category
+  
+### How to Use
+1. Download and open the Excel file.
+2. Go to the **Firm Size Dashboard** sheet.
+3. Use the slicers to filter by firm size and year.
