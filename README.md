@@ -18,7 +18,7 @@ This project is an Excel dashboard analyzing firm size distribution, employment,
 
 ### Project 2 : US Retail Analysis Dashboard (Excel)
 View Dashboard Screenshots
-[]
+[https://github.com/c-mutuku/Data_Analysis_Portfolio/blob/main/Screenshots/US_Retail%20.png]
 []
 
 This project features two Excel dashboards focused on operational efficiency, customer value and financial trends, helping track fulfillment performance and financial metrics over time.
