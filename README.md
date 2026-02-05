@@ -1,6 +1,6 @@
 # Caroline's Portfolio
 
-A collection of data analysis projects using Excel, SQL and Power BI focused on business insights and dashboard reporting.
+A collection of data analysis projects using Excel focused on business insights and dashboard reporting.
 
 ## Excel Dashboard Projects  
 **Tools:** Microsoft Excel, Power Query, Pivot Tables, Charts, Slicers
